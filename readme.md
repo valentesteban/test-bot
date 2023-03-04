@@ -10,7 +10,7 @@
 - Run `npm install` to install the dependencies
 - Finally run `npm start` and let it be
 
-### example of the files ###(`words.json` and `status.json`)
+#### example of the files (`words.json` and `status.json`)
 
 ```json
 // status.json example:
