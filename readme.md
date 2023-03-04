@@ -1,7 +1,7 @@
-# random bot
+# test bot
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)](license.txt)
 
-## how do i run it?
+### how do i run it?
 
 - Clone the repository using `git clone https://github.com/valentesteban/randombot`
 - Open the created `randombot` folder
