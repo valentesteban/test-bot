@@ -3,7 +3,7 @@
 
 ### how do i run it?
 
-- Clone the repository using `git clone https://github.com/valentesteban/randombot`
+- Clone the repository using `git clone https://github.com/valentesteban/test-bot`
 - Open the created `randombot` folder
 - Create a `.env` file using the `.env.example` template and fill it with your information
 - Create `data/status.json` and `data/words.json`
